@@ -1,0 +1,10 @@
+    {
+        "allowed_extensions": [
+            "pki.client.extension@symantec.com"
+        ],
+        "description": "Symantec Authentication Client Messaging Broker",
+        "name": "com.symantec.authclient.vip.nativemessaging.launcher",
+        "path": ".\\nativeMessagingLauncher.exe",
+        "type": "stdio"
+    }
+    

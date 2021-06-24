@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="Domain" value="Dir" />
+    <add key="AppIDUser" value="" />
+    <add key="AppIDPass" value="" />
+    <add key="ADGroupServiceCallDate" value="2/5/2018" />
+    <add key="ADGroupUserStatus" value="True" />
+  </appSettings>
+</configuration>

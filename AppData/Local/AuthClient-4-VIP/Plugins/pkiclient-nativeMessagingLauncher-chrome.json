@@ -1,0 +1,10 @@
+    {
+        "allowed_origins": [
+            "chrome-extension://ahgdclgdhfeingghldkedleghekbfhef/"
+        ],
+        "description": "Symantec Authentication Client Messaging Broker",
+        "name": "com.symantec.authclient.vip.nativemessaging.launcher",
+        "path": ".\\nativeMessagingLauncher.exe",
+        "type": "stdio"
+    }
+    
