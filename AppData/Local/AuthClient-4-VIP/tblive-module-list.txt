@@ -1,8 +1,0 @@
-SAND-x86_64-VIP-1.0.0.0.dll
-tblive-4-com-x86-VIP-4.17.0.0.dll
-BOAS-x86_64-VIP-2.0.0.0.dll
-tblive-4-core-x86-VIP-4.20.0.0.dll
-tblive-4-core-x86_64-VIP-4.20.0.0.dll
-BOAS-x86-VIP-2.0.0.0.dll
-tblive-4-com-x86_64-VIP-4.17.0.0.dll
-SAND-x86-VIP-1.0.0.0.dll

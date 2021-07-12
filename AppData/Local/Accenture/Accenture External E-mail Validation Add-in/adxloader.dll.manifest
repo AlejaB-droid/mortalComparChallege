@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<configuration>
-  <assemblyIdentity name="Accenture_External_E-mail_Validation_Add-in, PublicKeyToken=59ef70c0f1a5799a" imageRuntimeVersion="v4.0.30319" />
-  <loaderSettings generateLogFile="true" shadowCopyEnabled="false" privileges="user" minOfficeVersionSupported="14" />
-</configuration>
